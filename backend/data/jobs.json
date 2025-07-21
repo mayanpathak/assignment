@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "Tech Solutions Inc",
+    "location": "Remote",
+    "description": "We are seeking a skilled Frontend Developer to join our dynamic team. You will be responsible for developing user-facing web applications using React, JavaScript, HTML, and CSS.",
+    "requirements": "3+ years experience with React, JavaScript, HTML5, CSS3, responsive design, Git version control",
+    "salary": "$70,000 - $90,000",
+    "applyLink": "https://techsolutions.com/apply/frontend-dev-001"
+  },
+  {
+    "id": "2",
+    "title": "Full Stack Developer",
+    "company": "Digital Innovations",
+    "location": "New York, NY",
+    "description": "Looking for a Full Stack Developer with expertise in both frontend and backend technologies. Work with React, Node.js, MongoDB, and modern development practices.",
+    "requirements": "4+ years full-stack experience, React, Node.js, MongoDB, Express.js, REST APIs, JavaScript, TypeScript",
+    "salary": "$85,000 - $110,000",
+    "applyLink": "https://digitalinnovations.com/careers/fullstack-dev-002"
+  },
+  {
+    "id": "3",
+    "title": "Backend Developer",
+    "company": "CloudTech Systems",
+    "location": "San Francisco, CA",
+    "description": "Join our backend team to build scalable APIs and microservices. Experience with Node.js, Python, databases, and cloud platforms required.",
+    "requirements": "3+ years backend development, Node.js, Python, SQL, NoSQL, AWS, Docker, microservices architecture",
+    "salary": "$80,000 - $105,000",
+    "applyLink": "https://cloudtech.com/jobs/backend-developer-003"
+  },
+  {
+    "id": "4",
+    "title": "React Developer",
+    "company": "StartupXYZ",
+    "location": "Austin, TX",
+    "description": "Exciting opportunity for a React specialist to build cutting-edge web applications. Work with the latest React features, hooks, and modern JavaScript.",
+    "requirements": "2+ years React experience, JavaScript ES6+, Redux, React Hooks, CSS-in-JS, testing libraries",
+    "salary": "$65,000 - $80,000",
+    "applyLink": "https://startupxyz.com/careers/react-developer-004"
+  },
+  {
+    "id": "5",
+    "title": "Senior Software Engineer",
+    "company": "Enterprise Corp",
+    "location": "Chicago, IL",
+    "description": "Senior role for experienced developer to lead technical initiatives and mentor junior developers. Full-stack development with focus on scalability.",
+    "requirements": "7+ years software development, leadership experience, multiple programming languages, system design, mentoring",
+    "salary": "$120,000 - $150,000",
+    "applyLink": "https://enterprisecorp.com/positions/senior-engineer-005"
+  },
+  {
+    "id": "6",
+    "title": "Python Developer",
+    "company": "Data Analytics Pro",
+    "location": "Remote",
+    "description": "Python developer needed for data processing and web application development. Experience with Django, Flask, and data analysis libraries required.",
+    "requirements": "3+ years Python development, Django or Flask, pandas, NumPy, SQL, data analysis experience",
+    "salary": "$75,000 - $95,000",
+    "applyLink": "https://dataanalyticspro.com/jobs/python-dev-006"
+  },
+  {
+    "id": "7",
+    "title": "DevOps Engineer",
+    "company": "Infrastructure Inc",
+    "location": "Seattle, WA",
+    "description": "DevOps engineer to manage CI/CD pipelines, cloud infrastructure, and deployment automation. AWS and containerization experience essential.",
+    "requirements": "4+ years DevOps experience, AWS, Docker, Kubernetes, CI/CD, Infrastructure as Code, monitoring",
+    "salary": "$95,000 - $120,000",
+    "applyLink": "https://infrastructure-inc.com/careers/devops-engineer-007"
+  },
+  {
+    "id": "8",
+    "title": "Mobile Developer",
+    "company": "MobileFirst Solutions",
+    "location": "Los Angeles, CA",
+    "description": "Mobile developer for iOS and Android applications. Experience with React Native or native development required.",
+    "requirements": "3+ years mobile development, React Native or Swift/Kotlin, mobile UI/UX, app store deployment",
+    "salary": "$80,000 - $100,000",
+    "applyLink": "https://mobilefirst.com/jobs/mobile-developer-008"
+  },
+  {
+    "id": "9",
+    "title": "Junior Web Developer",
+    "company": "Learning Tech",
+    "location": "Remote",
+    "description": "Entry-level position for new graduates or career changers. Learn and grow with our supportive team while building web applications.",
+    "requirements": "0-2 years experience, HTML, CSS, JavaScript basics, eagerness to learn, computer science degree preferred",
+    "salary": "$45,000 - $60,000",
+    "applyLink": "https://learningtech.com/careers/junior-web-dev-009"
+  },
+  {
+    "id": "10",
+    "title": "UI/UX Developer",
+    "company": "Design Studio",
+    "location": "Portland, OR",
+    "description": "UI/UX Developer to bridge design and development. Create beautiful, functional user interfaces with attention to user experience.",
+    "requirements": "3+ years UI/UX development, HTML, CSS, JavaScript, design tools (Figma, Adobe), responsive design",
+    "salary": "$70,000 - $85,000",
+    "applyLink": "https://designstudio.com/positions/uiux-developer-010"
+  }
+]
